@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "226a2ed5dfb96ecf82001ea2",
+  "owner": "qvrvvhyp",
+  "repo": "page-7c8c04de34cc3d4c033dbb41",
+  "title": "机场榜单Top1",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7c8c04de34cc3d4c033dbb41",
+      "a": "Dogess",
+      "b": "机场榜单Top1",
+      "entity": "Dogess",
+      "brand": "机场榜单Top1",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "efdc8d1b0b7fe75f8c0d8a229654081b66871ed7b26ae52cc67ff489c359d823",
+      "content": {
+        "primary_entity": "Dogess",
+        "keyword1": "Dogess",
+        "keyword2": "机场榜单Top1",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，桌面端推荐 Clash Verge，移动端可选 Shadowrocket 与 Clash Meta。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月流量从 100GB 到 1000GB，设备数从 3 台到 20 台，适合单人多设备、游戏加速与团队协作场景。",
+          "AI_FEATURES_INTRO": "从设备数量、月流量与订阅周期出发，快速匹配适合的套餐。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/月支持 3 台设备，旗舰版 300GB/月支持 5 台，团队版 1000GB/月支持 20 台。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速与全节点流媒体解锁，适合对延迟敏感的用户。",
+          "AI_FEATURE_TEXT_3": "按年付更划算：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TITLE_2": "线路与场景",
+          "AI_FEATURE_TITLE_3": "计费周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到导入订阅的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Dogess 提供多档海外加速套餐，覆盖单人多设备到团队协作，按月或按年计费，配合常用客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，适配多设备",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "年付更省",
+          "AI_HIGHLIGHT_3": "多端客户端支持",
+          "AI_PLANS_INTRO": "基础版 ¥15/月 100GB 支持 3 台设备；旗舰版 ¥35/月 300GB 支持 5 台并含 IPLC 专线优化；团队版 ¥85/月 1000GB 支持 20 台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量与同时在线设备数，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备系统与客户端类型匹配。",
+          "AI_STEP_TEXT_3": "参照对应客户端的订阅导入文档完成配置并连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Dogess 加速套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何导入订阅链接？",
+          "AI_FAQ_ANSWER_1": "在对应客户端中找到订阅或配置导入入口，粘贴购买后生成的订阅地址，保存后更新节点列表。不同客户端按钮位置略有差异，可参考所装客户端的说明文档。",
+          "AI_FAQ_QUESTION_2": "三档套餐的设备数怎么算？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。设备数按同时连接计算，手机、电脑与平板各占一个名额。路由器全局代理下所有连入设备会共用同一额度。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月续费，灵活性更高；年付一次性支付，基础版¥150/年、旗舰版¥350/年、团队版¥850/年，折算月均成本更低，适合确定长期使用的用户。",
+          "AI_FAQ_QUESTION_4": "旗舰版的IPLC专线适合做什么？",
+          "AI_FAQ_ANSWER_4": "IPLC专线针对游戏加速优化，延迟与抖动表现更稳定，适合实时对战与高清流媒体。团队版则提供VIP高带宽节点与企业定制路由，适合多人协作场景。",
+          "AI_FAQ_QUESTION_5": "可以中途更换套餐吗？",
+          "AI_FAQ_ANSWER_5": "可以按实际使用情况调整档位。设备增加或流量不足时，从基础版升级到旗舰版或团队版；升级后按新套餐的设备数与流量额度使用，具体生效方式以购买时页面说明为准。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2b9ead1fc6f7b2fde7c86010b8b6998a5fedb7ff75e86765068a413574f8b0e4",
+    "sitemap.xml": "5ce60ecd8e1db8ca003451eae45c1ff550a1f3ef52bd28b07d2dbd6bc64fcafb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "46ccfaf20c70eae5150097ead880bb16cf5dcdc6a96075fec4d9a76b1b6e8175"
+}
